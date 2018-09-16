@@ -1,0 +1,86 @@
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\Model.xml
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\refactor.xml
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\postdeploy.sql
+C:\Users\ferna\Desktop\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\predeploy.sql
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\Model.xml
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\refactor.xml
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\postdeploy.sql
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\predeploy.sql
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\Model.xml
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\refactor.xml
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\postdeploy.sql
+C:\Users\300268288\Desktop\Project EF version 2.0\Proyecto con EF\ProjectTeam06TermProject-1\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\predeploy.sql
+C:\Users\300271318\Downloads\EF SELLER DONE\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\300271318\Downloads\EF SELLER DONE\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\300271318\Downloads\EF SELLER DONE\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\300271318\Downloads\EF SELLER DONE\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\300271318\Downloads\EF SELLER DONE\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\300271318\Downloads\EF SELLER DONE\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\ProjectTeam06TermProject_0403temp\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\ProjectTeam06TermProject_0403temp\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\ProjectTeam06TermProject_0403temp\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\ProjectTeam06TermProject_0403temp\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\ProjectTeam06TermProject_0403temp\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\ProjectTeam06TermProject_0403temp\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+D:\CSS\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+D:\CSS\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+D:\CSS\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+D:\CSS\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+D:\CSS\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+D:\CSS\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject_BuyerNeedsFix\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\Users\ferna\Desktop\Proyecto(mejorar A\B)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\ferna\Desktop\Proyecto(mejorar A\B)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\Proyecto(mejorar A\B)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\ferna\Desktop\Proyecto(mejorar A\B)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Proyecto(mejorar A\B)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\Proyecto(mejorar A\B)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\Model.xml
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\refactor.xml
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\postdeploy.sql
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\predeploy.sql
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+D:\CSS\ProjectTeam06TermProject(BuyerFIX)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\Users\300271318\Downloads\ProjectTeam06TermProject(XML fix buyer)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\300271318\Downloads\ProjectTeam06TermProject(XML fix buyer)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\300271318\Downloads\ProjectTeam06TermProject(XML fix buyer)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\300271318\Downloads\ProjectTeam06TermProject(XML fix buyer)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\300271318\Downloads\ProjectTeam06TermProject(XML fix buyer)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\300271318\Downloads\ProjectTeam06TermProject(XML fix buyer)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\Model.xml
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\refactor.xml
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\postdeploy.sql
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\predeploy.sql
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\300268288\Downloads\ProjectTeam06TermProject(ult)\ProjectTeam06TermProject(Draft)\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb
+C:\Users\ferna\Desktop\ProjectTeam06TermProject(final)\ProjectTeam06TermProject(final)\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dacpac
+C:\Users\ferna\Desktop\ProjectTeam06TermProject(final)\ProjectTeam06TermProject(final)\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\ProjectTeam06TermProject(final)\ProjectTeam06TermProject(final)\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\bin\Debug\ECommerceDB.pdb
+C:\Users\ferna\Desktop\ProjectTeam06TermProject(final)\ProjectTeam06TermProject(final)\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.sqlprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\ProjectTeam06TermProject(final)\ProjectTeam06TermProject(final)\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.dll
+C:\Users\ferna\Desktop\ProjectTeam06TermProject(final)\ProjectTeam06TermProject(final)\ProjectTeam06TermProject\ProjectTeam06TermProject\ECommerceDB\obj\Debug\ECommerceDB.pdb

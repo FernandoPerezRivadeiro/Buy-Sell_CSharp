@@ -1,0 +1,89 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="ECommerceDataSet" targetNamespace="http://tempuri.org/ECommerceDataSet.xsd" xmlns:mstns="http://tempuri.org/ECommerceDataSet.xsd" xmlns="http://tempuri.org/ECommerceDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="ECommerceDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Items">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ItemName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ItemPrice" type="xs:decimal" />
+              <xs:element name="ItemCategory">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ItemId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" />
+              <xs:element name="Status" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Orders">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BuyerNum" type="xs:int" />
+              <xs:element name="ItemNum" type="xs:int" />
+              <xs:element name="OrderId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Participants">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ParticipantId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" />
+              <xs:element name="Balance" type="xs:decimal" />
+              <xs:element name="Name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Postings">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PostingId" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" type="xs:int" />
+              <xs:element name="SellerNum" type="xs:int" />
+              <xs:element name="ItemNum" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Items" />
+      <xs:field xpath="mstns:ItemId" />
+    </xs:unique>
+    <xs:unique name="Orders_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Orders" />
+      <xs:field xpath="mstns:OrderId" />
+    </xs:unique>
+    <xs:unique name="Participants_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Participants" />
+      <xs:field xpath="mstns:ParticipantId" />
+    </xs:unique>
+    <xs:unique name="Postings_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Postings" />
+      <xs:field xpath="mstns:PostingId" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="FK__Orders__ItemNum__2A4B4B5E" msdata:parent="Items" msdata:child="Orders" msdata:parentkey="ItemId" msdata:childkey="ItemNum" />
+      <msdata:Relationship name="FK__Orders__BuyerNum__29572725" msdata:parent="Participants" msdata:child="Orders" msdata:parentkey="ParticipantId" msdata:childkey="BuyerNum" />
+      <msdata:Relationship name="FK__Postings__ItemNu__2C3393D0" msdata:parent="Items" msdata:child="Postings" msdata:parentkey="ItemId" msdata:childkey="ItemNum" />
+      <msdata:Relationship name="FK__Postings__Seller__2B3F6F97" msdata:parent="Participants" msdata:child="Postings" msdata:parentkey="ParticipantId" msdata:childkey="SellerNum" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
